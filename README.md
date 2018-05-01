@@ -13,4 +13,4 @@ sudo apt-get install \
 
 forked from bitcoinz still Unbranded
 
-##UNFINISHED TO GET TO BUILD MUST COMPILE WITH --disable-tests
+## UNFINISHED TO GET TO BUILD MUST COMPILE WITH --disable-tests
